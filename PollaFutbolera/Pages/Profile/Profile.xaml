@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PollaFutbolera.Pages.Profile.Profile"
+             xmlns:profile="clr-namespace:PollaFutbolera.Pages.Profile"
+             Title="Perfil">
+    <VerticalStackLayout>
+        <Label 
+            Text="Aca el perfil de usuario de uno"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <StackLayout >
+            <Frame CornerRadius="0" BorderColor="White" Margin="10">
+                <StackLayout>
+                    <Label Text="img xd" TextColor="black"/>
+                    <Label Text="name" TextColor="red"/>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+
+        <StackLayout>
+            <Button Text="numero" Clicked="NumberXd"/>
+            <Frame  BackgroundColor="#f0f0f0" CornerRadius="10">
+                <Label x:Name="Ff" Text="0" HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black"/>
+            </Frame>
+        </StackLayout>
+
+  
+
+    </VerticalStackLayout>
+</ContentPage>

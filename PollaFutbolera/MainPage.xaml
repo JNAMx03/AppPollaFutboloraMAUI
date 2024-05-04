@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PollaFutbolera.MainPage">
+
+    <TabbedPage.Children>
+        <ContentPage Title="Inicio">
+            <Button Clicked="gotohome"/>
+        </ContentPage>
+        <ContentPage Title="Crear">
+            <Button Clicked="gotocreate"/>
+        </ContentPage>
+        <ContentPage Title="Perfil">
+            <Button Clicked="gotoprofile"/>
+        </ContentPage>
+    </TabbedPage.Children>
+
+
+</TabbedPage>

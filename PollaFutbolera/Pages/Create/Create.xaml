@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PollaFutbolera.Pages.Create.Create"
+             Title="Crear">
+    <VerticalStackLayout>
+        <Label 
+            Text="Aca se pueden crear todas las pollas que quiera"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <ScrollView>
+            <StackLayout Padding="20">
+                <Label Text="Creacion de pollas" FontSize="Title" HorizontalTextAlignment="Center"/>
+                <Entry x:Name="Name" Placeholder="Nombre de polla"/>
+                <Entry x:Name="League" Placeholder="Liga o torneo"/>
+                <Entry x:Name="Users" Placeholder="numero particiapamtes"/>
+
+                <Button Text="Continuar" Clicked="GoToDetails"/>
+            </StackLayout>
+        </ScrollView>
+        
+    </VerticalStackLayout>
+
+    
+</ContentPage>

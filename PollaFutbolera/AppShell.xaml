@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="PollaFutbolera.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:PollaFutbolera"
+    xmlns:pages="clr-namespace:PollaFutbolera.Pages"
+    xmlns:home="clr-namespace:PollaFutbolera.Pages.Home"
+    xmlns:create="clr-namespace:PollaFutbolera.Pages.Create"
+    xmlns:profile="clr-namespace:PollaFutbolera.Pages.Profile"
+    xmlns:polla="clr-namespace:PollaFutbolera.Pages.Polla"
+    Shell.FlyoutBehavior="Disabled"
+    Title="PollaFutbolera"
+    BackgroundColor="blue">
+
+    <!--<ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />-->
+
+    <TabBar x:Name="MyTabBar">
+        <ShellContent
+            Title="Inicio"
+            Icon="Resources/AppIcon/ic--sharp-home.svg"
+            ContentTemplate="{DataTemplate home:Home}"
+            Route="Home"/>
+        <ShellContent
+            Title="Crear"
+            Icon="Resources/AppIcon/ic--round-plus.svg"
+            ContentTemplate="{DataTemplate create:Create}"
+            Route="Create"/>
+        <ShellContent
+            Title="Perfil"
+            Icon="Resources/AppIcon/carbon--user-avatar.svg"
+            ContentTemplate="{DataTemplate profile:Profile}"
+            Route="Profile"/>
+    </TabBar>
+
+</Shell>

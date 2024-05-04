@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PollaFutbolera.Pages.Home.Home"
+             Title="Inicio"
+             Shell.BackgroundColor="blue"
+             Shell.TitleColor="white">
+
+    <!--<ContentPage.Resources>
+        <Style>
+            <Setter Property="BackgroundColor" Value="Blue"/>
+        </Style>
+    </ContentPage.Resources>-->
+
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem IconImageSource="Resources/AppIcon/carbon--notification.png"
+                     Clicked="GoToNotification"
+                     Text="🔔"/>
+    </ContentPage.ToolbarItems>
+    
+    <VerticalStackLayout BackgroundColor="white">
+        <Label 
+            Text="Aca van las pollas en las que estoy inscrito"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <StackLayout Margin="10" >
+            <Frame CornerRadius="10" Margin="5" Padding="10" BackgroundColor="#0065ae" BorderColor="#0065ae">
+                <StackLayout>
+                    <Label Text="Nombre" FontSize="Title" FontAttributes="Bold" TextColor="red" />
+                    <Label Text="Liga" FontSize="Body" TextColor="Black"/>
+                </StackLayout>
+                
+            </Frame>
+        </StackLayout>
+
+        <Frame CornerRadius="10" Margin="5" Padding="10" BackgroundColor="#0065ae" BorderColor="#0065ae">
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Tapped="GoToPolla"/>
+            </Frame.GestureRecognizers>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Label Text="Nombre" FontSize="Title" FontAttributes="Bold"/>
+                <BoxView BackgroundColor="Black" Grid.Column="1" WidthRequest="3"/>
+                <Label Text="liga" Grid.Column="0" Grid.ColumnSpan="2" FontSize="Body"/>
+            </Grid>
+        </Frame>
+
+    </VerticalStackLayout>
+</ContentPage>
