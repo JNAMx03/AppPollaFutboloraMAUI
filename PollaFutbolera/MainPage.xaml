@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="PollaFutbolera.MainPage">
 
-    <TabbedPage.Children>
+    <!--<TabbedPage.Children>
         <ContentPage Title="Inicio">
             <Button Clicked="gotohome"/>
         </ContentPage>
@@ -13,7 +13,7 @@
         <ContentPage Title="Perfil">
             <Button Clicked="gotoprofile"/>
         </ContentPage>
-    </TabbedPage.Children>
+    </TabbedPage.Children>-->
 
 
 </TabbedPage>

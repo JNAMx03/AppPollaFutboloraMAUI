@@ -5,7 +5,7 @@
              Title="Friends">
     <VerticalStackLayout>
         <Label 
-            Text="Welcome to .NET MAUI!"
+            Text="Welcome to .NET MAUI! xdxd"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
     </VerticalStackLayout>

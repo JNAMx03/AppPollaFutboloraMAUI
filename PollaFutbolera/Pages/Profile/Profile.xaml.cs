@@ -16,7 +16,13 @@ public partial class Profile : ContentPage
 		Console.WriteLine(number);
 		Ff.Text = number.ToString();
 
-		
+
 	}
+
+    private async void GoToFriends(object sender, EventArgs e)
+    {
+        await Shell.Current.GoToAsync("Friends");
+        //await Navigation.PushAsync(new Notifications());
+    }
 
 }

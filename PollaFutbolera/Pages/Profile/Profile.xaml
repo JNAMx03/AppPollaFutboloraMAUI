@@ -13,20 +13,35 @@
         <StackLayout >
             <Frame CornerRadius="0" BorderColor="White" Margin="10">
                 <StackLayout>
-                    <Label Text="img xd" TextColor="black"/>
+                    <Label Text="img xd" TextColor="Black"/>
                     <Label Text="name" TextColor="red"/>
                 </StackLayout>
             </Frame>
         </StackLayout>
 
         <StackLayout>
-            <Button Text="numero" Clicked="NumberXd"/>
+            <Button Text="numero" Clicked="NumberXd" />
             <Frame  BackgroundColor="#f0f0f0" CornerRadius="10">
                 <Label x:Name="Ff" Text="0" HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black"/>
             </Frame>
         </StackLayout>
 
-  
+        <Frame CornerRadius="10" Margin="5" Padding="10" BackgroundColor="red" BorderColor="#0065ae" WidthRequest="300">
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Tapped="GoToFriends"/>
+            </Frame.GestureRecognizers>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Label Text="Nombre" FontSize="Title" FontAttributes="Bold"/>
+                <BoxView BackgroundColor="Black" Grid.Column="1" WidthRequest="3"/>
+                <Label Text="liga" Grid.Column="0" Grid.ColumnSpan="2" FontSize="Body"/>
+            </Grid>
+        </Frame>
+
+
 
     </VerticalStackLayout>
 </ContentPage>

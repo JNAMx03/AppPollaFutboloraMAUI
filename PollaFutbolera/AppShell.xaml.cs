@@ -2,6 +2,8 @@
 using PollaFutbolera.Pages.Polla;
 using PollaFutbolera.Pages.Create;
 
+using PollaFutbolera.Pages.Profile;
+
 namespace PollaFutbolera
 {
     public partial class AppShell : Shell
@@ -13,6 +15,8 @@ namespace PollaFutbolera
             Routing.RegisterRoute("Notification", typeof(Notifications));
             Routing.RegisterRoute("Polla", typeof(Polla));
             Routing.RegisterRoute("Details", typeof(Details));
+
+            Routing.RegisterRoute("Friends", typeof(Friends));
         }
     }
 }

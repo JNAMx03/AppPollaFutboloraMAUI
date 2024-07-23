@@ -12,125 +12,155 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PollaFutbolera
-build_property.ProjectDir = E:\MIOO\Programacion\PROYECTOS\POLLA - QUINIELA - PENKA v1\PollaFutbolera\PollaFutbolera\
+build_property.ProjectDir = C:\Users\cesap\Desktop\JNAM\Programacion\AppPollaFutboloraMAUI\PollaFutbolera\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/App.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/AppShell.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/MainPage.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Components/Cards/CardViewFriend.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Components.Cards.CardViewFriend.xaml
+build_metadata.AdditionalFiles.TargetPath = Components\Cards\CardViewFriend.xaml
+build_metadata.AdditionalFiles.RelativePath = Components\Cards\CardViewFriend.xaml
+
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Components/Cards/CardViewPolla.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Components.Cards.CardViewPolla.xaml
+build_metadata.AdditionalFiles.TargetPath = Components\Cards\CardViewPolla.xaml
+build_metadata.AdditionalFiles.RelativePath = Components\Cards\CardViewPolla.xaml
+
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Create/Create.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Create/Create.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Create.Create.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Create\Create.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Create\Create.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Create/Details.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Create/Details.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Create.Details.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Create\Details.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Create\Details.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/FriendProfile.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.FriendProfile.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\FriendProfile.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\FriendProfile.xaml
-
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Home/Home.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Home/Home.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Home.Home.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Home\Home.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Home\Home.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Home/Notifications.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Home/Notifications.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Home.Notifications.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Home\Notifications.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Home\Notifications.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Inscription.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Inscription.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\Inscription.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\Inscription.xaml
-
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Polla/Chat.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Polla/Chat.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Polla.Chat.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Polla\Chat.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Polla\Chat.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Polla/Information.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Polla/Information.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Polla.Information.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Polla\Information.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Polla\Information.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Polla/Matches.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Polla/InviteFriend.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Polla.InviteFriend.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Polla\InviteFriend.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Polla\InviteFriend.xaml
+
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Polla/Matches.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Polla.Matches.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Polla\Matches.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Polla\Matches.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Polla/Polla.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Polla/Polla.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Polla.Polla.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Polla\Polla.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Polla\Polla.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Polla/Position.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Polla/Position.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Polla.Position.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Polla\Position.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Polla\Position.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Profile/Achievements.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Profile/Achievements.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Profile.Achievements.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Profile\Achievements.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Profile\Achievements.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Profile/Configurations.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Profile/Comodin.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Profile.Comodin.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Profile\Comodin.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Profile\Comodin.xaml
+
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Profile/Configurations.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Profile.Configurations.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Profile\Configurations.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Profile\Configurations.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Profile/Friends.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Profile/Friends.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Profile.Friends.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Profile\Friends.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Profile\Friends.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Pages/Profile/Profile.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Profile/Profile.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Profile.Profile.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Profile\Profile.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Profile\Profile.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Resources/Styles/Colors.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Profile/SeeComodin.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Profile.SeeComodin.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Profile\SeeComodin.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Profile\SeeComodin.xaml
+
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Profile/SeeFriend.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Profile.SeeFriend.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Profile\SeeFriend.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Profile\SeeFriend.xaml
+
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Pages/Search/Inscription.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Pages.Search.Inscription.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Search\Inscription.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Search\Inscription.xaml
+
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[E:/MIOO/Programacion/PROYECTOS/POLLA - QUINIELA - PENKA v1/PollaFutbolera/PollaFutbolera/Resources/Styles/Styles.xaml]
+[C:/Users/cesap/Desktop/JNAM/Programacion/AppPollaFutboloraMAUI/PollaFutbolera/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PollaFutbolera.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

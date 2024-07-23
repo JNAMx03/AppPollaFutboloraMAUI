@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MIOO\\Programacion\\PROYECTOS\\POLLA - QUINIELA - PENKA v1\\PollaFutbolera\\PollaFutbolera\\PollaFutbolera.csproj": {}
+    "C:\\Users\\cesap\\Desktop\\JNAM\\Programacion\\AppPollaFutboloraMAUI\\PollaFutbolera\\PollaFutbolera.csproj": {}
   },
   "projects": {
-    "E:\\MIOO\\Programacion\\PROYECTOS\\POLLA - QUINIELA - PENKA v1\\PollaFutbolera\\PollaFutbolera\\PollaFutbolera.csproj": {
+    "C:\\Users\\cesap\\Desktop\\JNAM\\Programacion\\AppPollaFutboloraMAUI\\PollaFutbolera\\PollaFutbolera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MIOO\\Programacion\\PROYECTOS\\POLLA - QUINIELA - PENKA v1\\PollaFutbolera\\PollaFutbolera\\PollaFutbolera.csproj",
+        "projectUniqueName": "C:\\Users\\cesap\\Desktop\\JNAM\\Programacion\\AppPollaFutboloraMAUI\\PollaFutbolera\\PollaFutbolera.csproj",
         "projectName": "PollaFutbolera",
-        "projectPath": "E:\\MIOO\\Programacion\\PROYECTOS\\POLLA - QUINIELA - PENKA v1\\PollaFutbolera\\PollaFutbolera\\PollaFutbolera.csproj",
-        "packagesPath": "C:\\Users\\jnamx\\.nuget\\packages\\",
-        "outputPath": "E:\\MIOO\\Programacion\\PROYECTOS\\POLLA - QUINIELA - PENKA v1\\PollaFutbolera\\PollaFutbolera\\obj\\",
+        "projectPath": "C:\\Users\\cesap\\Desktop\\JNAM\\Programacion\\AppPollaFutboloraMAUI\\PollaFutbolera\\PollaFutbolera.csproj",
+        "packagesPath": "C:\\Users\\cesap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cesap\\Desktop\\JNAM\\Programacion\\AppPollaFutboloraMAUI\\PollaFutbolera\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jnamx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cesap\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -55,6 +55,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -67,16 +72,16 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.2, )",
+              "version": "[8.0.5, )",
               "autoReferenced": true
             }
           },
@@ -99,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-ios17.2": {
           "targetAlias": "net8.0-ios",
@@ -110,16 +115,16 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.2, )",
+              "version": "[8.0.5, )",
               "autoReferenced": true
             }
           },
@@ -142,7 +147,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-maccatalyst17.2": {
           "targetAlias": "net8.0-maccatalyst",
@@ -153,16 +158,16 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.2, )",
+              "version": "[8.0.5, )",
               "autoReferenced": true
             }
           },
@@ -186,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
@@ -197,11 +202,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.40, )"
             }
           },
           "imports": [
@@ -229,7 +234,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

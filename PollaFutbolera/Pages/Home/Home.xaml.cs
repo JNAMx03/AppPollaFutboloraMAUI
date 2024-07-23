@@ -10,8 +10,6 @@ public partial class Home : ContentPage
 	{
 		InitializeComponent();
 
-        //BackgroundColor = Colors.Blue;
-
     }
 
 	private async void GoToNotification(object sender, EventArgs e)
@@ -19,10 +17,12 @@ public partial class Home : ContentPage
 		await Shell.Current.GoToAsync("Notification");
         //await Navigation.PushAsync(new Notifications());
     }
-    private async void GoToPolla(object sender, EventArgs e)
-    {
-        await Shell.Current.GoToAsync("Polla");
-        //await Navigation.PushAsync(new Notifications());
-    }
+
+    // esto ahora esta en cardviewpolla
+    //private async void GoToPolla(object sender, EventArgs e)
+    //{
+    //    await Shell.Current.GoToAsync("Polla");
+    //    //await Navigation.PushAsync(new Notifications());
+    //}
 
 }
